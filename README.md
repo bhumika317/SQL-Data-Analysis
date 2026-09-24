@@ -37,3 +37,12 @@ To practice SQL and build data analysis skills.
 
 Currently learning Git and GitHub and building this SQL project step by step.
 
+## Sample SQL Queries
+
+```sql
+SELECT * FROM employees;
+
+SELECT department, COUNT(*)
+FROM employees
+GROUP BY department; 
+```
