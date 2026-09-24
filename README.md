@@ -31,4 +31,9 @@ This project contains SQL queries and data analysis practice.
 
 
 To practice SQL and build data analysis skills.
+## Project Status
+
+
+
+Currently learning Git and GitHub and building this SQL project step by step.
 
